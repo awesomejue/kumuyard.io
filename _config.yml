@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "jueying"
-  avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "所见所闻改变一生，不知不觉断送一生！"
   location         : "北京"
   email            : "jueying2014@foxmail.com"

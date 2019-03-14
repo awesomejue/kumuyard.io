@@ -19,4 +19,5 @@ jekyll + Github pages 搭建个人博客这个方案就不再讨论了，这里�
 + 直接copy别人搞好的开始，这是最好最快的办法
 + 千万别gem直接安装jeklly, 不然bundle install会有gem的环境问题
 + images中放进去的图片，在jekyll s，localhost查看的时候可能显示不出来
++ Github Pages href 如果使用 / 路径，会默认加上你的域名，不使用 / 才是正常项目中的路径
 + favicon也可能导致错误，可以去[这个地址](https://realfavicongenerator.net/)直接生成，放到根目录，然后在[head/custom.html](../_includes/head/custom.html)这个文件配置
