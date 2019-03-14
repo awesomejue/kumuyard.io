@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "jueying"
   avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "所见所闻改变一生，不知不觉断送一生"
+  bio              : "所见所闻改变一生，不知不觉断送一生！"
   location         : "北京"
   email            : "jueying2014@foxmail.com"
   links:
@@ -290,6 +290,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: false # true
+      share: false
+      related: false
